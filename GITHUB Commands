@@ -1,0 +1,14 @@
+git add
+git commit
+git reset --hard HEAD~1
+git log --oneline
+git status -s
+rm -rf .git
+git branch name
+git branch
+git switch
+git merge name
+git branch -d name
+git stash
+git stash apply
+git stash clear
